@@ -1,0 +1,2461 @@
+.group-9,
+.group-9 * {
+  box-sizing: border-box;
+}
+.group-9 {
+  height: 2774px;
+  position: relative;
+}
+.frame-1 {
+  background: #ffffff;
+  width: 720px;
+  height: 397px;
+  position: absolute;
+  left: 18px;
+  top: 0px;
+  overflow: hidden;
+}
+.t-ravel {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 566px;
+  top: 75px;
+  width: 86px;
+  height: 15px;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-11 {
+  background: rgba(33, 128, 166, 0.93);
+  border-radius: 60px;
+  width: 130.9px;
+  height: 35.5px;
+  position: absolute;
+  left: 621.46px;
+  top: -40px;
+  transform-origin: 0 0;
+  transform: rotate(20.552deg) scale(1, 1);
+}
+.group-8 {
+  position: absolute;
+  inset: 0;
+}
+.frame-9 {
+  width: 724px;
+  height: 448px;
+  position: absolute;
+  left: 9px;
+  top: 6px;
+}
+.rectangle-17 {
+  background: #d9d9d9;
+  border-radius: 7px;
+  opacity: 0.48;
+  width: 392px;
+  height: 22px;
+  position: absolute;
+  left: 65px;
+  top: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  position: absolute;
+  left: 156px;
+  top: 4px;
+  width: 38px;
+  height: 14px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  position: absolute;
+  left: 106px;
+  top: 4px;
+  width: 38px;
+  height: 14px;
+}
+.tour {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  position: absolute;
+  left: 206px;
+  top: 4px;
+  width: 38px;
+  height: 14px;
+}
+.info {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  position: absolute;
+  left: 256px;
+  top: 4px;
+  width: 38px;
+  height: 14px;
+}
+.package {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  position: absolute;
+  left: 363px;
+  top: 4px;
+  width: 49px;
+  height: 14px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  position: absolute;
+  left: 294px;
+  top: 4px;
+  width: 57px;
+  height: 14px;
+}
+.it-is-coolio-1 {
+  border-radius: 0px;
+  width: 640px;
+  height: 298px;
+  position: absolute;
+  left: 20px;
+  top: 59px;
+  overflow: visible;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-12 {
+  background: #8ba8de;
+  border-radius: 60px;
+  width: 210px;
+  height: 63px;
+  position: absolute;
+  left: 26px;
+  top: 294px;
+}
+.group-7 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-122 {
+  background: #8ba8de;
+  border-radius: 60px;
+  width: 383px;
+  height: 63px;
+  position: absolute;
+  left: 328px;
+  top: 317px;
+}
+.group-4 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-123 {
+  background: #8ba8de;
+  border-radius: 60px;
+  width: 56px;
+  height: 56px;
+  position: absolute;
+  left: 239px;
+  top: 298px;
+}
+.group-5 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-124 {
+  background: #000000;
+  border-radius: 60px;
+  width: 40px;
+  height: 38px;
+  position: absolute;
+  left: 247px;
+  top: 307px;
+}
+.t-ravel2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 86px;
+  height: 15px;
+}
+.elevate-your-travel-journey {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Actor-Regular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.44em;
+  font-weight: 400;
+  position: absolute;
+  left: 65px;
+  top: 92px;
+  width: 550px;
+  height: 33px;
+}
+.experience-the-magic-of-flight {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Adamina-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 92px;
+  width: 499px;
+  height: 62px;
+}
+.book-your-trip-now {
+  color: #000000;
+  text-align: left;
+  font-family: "AdLaMDisplay-Regular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.07em;
+  font-weight: 400;
+  position: absolute;
+  left: 65px;
+  top: 317px;
+  width: 397px;
+  height: 18px;
+}
+.polygon-1 {
+  width: 14px;
+  height: 17px;
+  position: absolute;
+  left: 275.29px;
+  top: 319.35px;
+  transform: translate(-13.02px, 0.67px);
+  overflow: visible;
+}
+.vecteezy-isolated-airplane-image-47308109-1 {
+  opacity: 0.86;
+  width: 549px;
+  height: 308px;
+  position: absolute;
+  left: 175px;
+  top: 140px;
+  box-shadow: 2px 15px 7.3px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+  aspect-ratio: 549/308;
+}
+.frame-2 {
+  background: #ffffff;
+  width: 720px;
+  height: 397px;
+  position: absolute;
+  left: 18px;
+  top: 397px;
+  overflow: hidden;
+}
+.save-when-book-with-booking-com-removebg-preview-1 {
+  width: 34px;
+  height: 26px;
+  position: absolute;
+  left: 615px;
+  top: 371px;
+  object-fit: cover;
+  aspect-ratio: 34/26;
+}
+.featured-app-1 {
+  width: 21px;
+  height: 21px;
+  position: absolute;
+  left: 654px;
+  top: 374px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.alquileres-temporarios-1 {
+  border-radius: 8px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: 685px;
+  top: 374px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.frame-92 {
+  width: 948.05px;
+  height: 432px;
+  position: absolute;
+  left: -163px;
+  top: 1px;
+}
+.rectangle-172 {
+  background: #d9d9d9;
+  border-radius: 7px;
+  opacity: 0.48;
+  width: 392px;
+  height: 22px;
+  position: absolute;
+  left: 237px;
+  top: 5px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.about2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  position: absolute;
+  left: 328px;
+  top: 9px;
+  width: 38px;
+  height: 14px;
+}
+.home2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  position: absolute;
+  left: 278px;
+  top: 9px;
+  width: 38px;
+  height: 14px;
+}
+.tour2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  position: absolute;
+  left: 378px;
+  top: 9px;
+  width: 38px;
+  height: 14px;
+}
+.info2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  position: absolute;
+  left: 428px;
+  top: 9px;
+  width: 38px;
+  height: 14px;
+}
+.package2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  position: absolute;
+  left: 535px;
+  top: 9px;
+  width: 49px;
+  height: 14px;
+}
+.contact2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  position: absolute;
+  left: 466px;
+  top: 9px;
+  width: 57px;
+  height: 14px;
+}
+.it-is-coolio-12 {
+  border-radius: 0px;
+  width: 640px;
+  height: 298px;
+  position: absolute;
+  left: 192px;
+  top: 64px;
+  overflow: visible;
+}
+.rectangle-125 {
+  background: #8ba8de;
+  border-radius: 60px;
+  width: 210px;
+  height: 63px;
+  position: absolute;
+  left: 198px;
+  top: 299px;
+}
+.rectangle-126 {
+  background: #8ba8de;
+  border-radius: 60px;
+  width: 706px;
+  height: 393px;
+  position: absolute;
+  left: 182px;
+  top: 39px;
+}
+.rectangle-127 {
+  background: #8ba8de;
+  border-radius: 60px;
+  width: 56px;
+  height: 56px;
+  position: absolute;
+  left: 411px;
+  top: 303px;
+}
+.rectangle-128 {
+  background: #000000;
+  border-radius: 60px;
+  width: 40px;
+  height: 38px;
+  position: absolute;
+  left: 419px;
+  top: 312px;
+}
+.t-ravel3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 172px;
+  top: 5px;
+  width: 86px;
+  height: 15px;
+}
+.login {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Actor-Regular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.44em;
+  font-weight: 400;
+  position: absolute;
+  left: 366px;
+  top: 152px;
+  width: 550px;
+  height: 33px;
+}
+.polygon-12 {
+  width: 14px;
+  height: 17px;
+  position: absolute;
+  left: 447.29px;
+  top: 324.35px;
+  transform: translate(-13.02px, 0.67px);
+  overflow: visible;
+}
+.rectangle-18 {
+  background: #cfcc15;
+  border-radius: 27px;
+  width: 402px;
+  height: 233px;
+  position: absolute;
+  left: 282px;
+  top: 126px;
+}
+.rectangle-21 {
+  background: #cfcc15;
+  border-radius: 27px;
+  width: 220px;
+  height: 204px;
+  position: absolute;
+  left: 0px;
+  top: 120px;
+}
+.t-ravel4 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 464px;
+  top: 144px;
+  width: 86px;
+  height: 15px;
+}
+.create-account {
+  color: #000000;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.15em;
+  font-weight: 400;
+  text-transform: lowercase;
+  position: absolute;
+  left: 378px;
+  top: 174px;
+  width: 210px;
+  height: 7px;
+}
+.rectangle-19 {
+  background: #d9d9d9;
+  border-radius: 24px;
+  width: 244px;
+  height: 31px;
+  position: absolute;
+  left: 372px;
+  top: 194px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-20 {
+  background: #d9d9d9;
+  border-radius: 24px;
+  width: 244px;
+  height: 31px;
+  position: absolute;
+  left: 370px;
+  top: 230px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-22 {
+  background: #d9d9d9;
+  border-radius: 24px;
+  width: 111px;
+  height: 22px;
+  position: absolute;
+  left: 439px;
+  top: 266px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.username {
+  color: #000000;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.15em;
+  font-weight: 400;
+  text-transform: lowercase;
+  position: absolute;
+  left: 425px;
+  top: 205px;
+  width: 210px;
+  height: 7px;
+}
+.password {
+  color: #000000;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.15em;
+  font-weight: 400;
+  text-transform: lowercase;
+  position: absolute;
+  left: 425px;
+  top: 239px;
+  width: 210px;
+  height: 7px;
+}
+.create-account2 {
+  color: #000000;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  text-transform: lowercase;
+  position: absolute;
+  left: 453px;
+  top: 271px;
+  width: 147px;
+  height: 10px;
+}
+.avatar-myself-people-profile-username-icon-username-icon-png-fly-clipart-removebg-preview-1 {
+  width: 34px;
+  height: 23px;
+  position: absolute;
+  left: 378px;
+  top: 201px;
+  object-fit: cover;
+  aspect-ratio: 34/23;
+}
+.premium-vector-password-hidding-icon-icon-for-data-privacy-and-sensitive-content-mark-vector-illustration-removebg-preview-1 {
+  width: 30px;
+  height: 20px;
+  position: absolute;
+  left: 382px;
+  top: 236px;
+  object-fit: cover;
+  aspect-ratio: 3/2;
+}
+.vecteezy-isolated-airplane-image-47308109-2 {
+  opacity: 0.86;
+  width: 455.93px;
+  height: 255.57px;
+  position: absolute;
+  right: -0.39px;
+  top: 0px;
+  box-shadow: 2px 15px 7.3px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(2.355deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 455.93/255.57;
+}
+.sign-up-with {
+  color: #000000;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  text-transform: lowercase;
+  position: absolute;
+  left: 442px;
+  top: 304px;
+}
+._1-d-44-f-2-c-1-9940-4517-8337-f-049537-a-1-efa-removebg-preview-1 {
+  width: 85px;
+  height: 87px;
+  position: absolute;
+  left: 464px;
+  top: 293px;
+  box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+  aspect-ratio: 85/87;
+}
+.frame-4 {
+  background: #ffffff;
+  width: 721px;
+  height: 397px;
+  position: absolute;
+  left: 18px;
+  top: 1191px;
+  overflow: hidden;
+}
+.rectangle-30 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 27px;
+  width: 104px;
+  height: 160px;
+  position: absolute;
+  left: 592px;
+  top: 261px;
+}
+.india-agra {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 11px;
+  font-weight: 300;
+  position: absolute;
+  left: 589px;
+  top: 300px;
+  width: 98px;
+}
+.taj-mahal {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 572px;
+  top: 273px;
+  width: 159px;
+  height: 27px;
+}
+._0-d-6-ffdc-2-a-391-42-c-8-af-80-098981251-f-90-removebg-preview-4 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 568px;
+  top: 294px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.mask-group {
+  height: auto;
+  position: absolute;
+  left: 557px;
+  top: 130px;
+  overflow: visible;
+}
+.save-when-book-with-booking-com-removebg-preview-12 {
+  width: 57.2px;
+  height: 43px;
+  position: absolute;
+  left: 550px;
+  top: 54px;
+  object-fit: cover;
+  aspect-ratio: 57.2/43;
+}
+.featured-app-12 {
+  width: 34px;
+  height: 34px;
+  position: absolute;
+  left: 615px;
+  top: 59px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.alquileres-temporarios-12 {
+  border-radius: 8px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 667px;
+  top: 59px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.rectangle-47 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 37px;
+  height: 14px;
+  position: absolute;
+  left: 464px;
+  top: 327px;
+}
+.rectangle-48 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 37px;
+  height: 14px;
+  position: absolute;
+  left: 666px;
+  top: 327px;
+}
+.frame-93 {
+  width: 632px;
+  height: 481px;
+  position: absolute;
+  left: -52px;
+  top: -57px;
+}
+.rectangle-35 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 27px;
+  width: 104px;
+  height: 160px;
+  position: absolute;
+  left: 78px;
+  top: 313px;
+}
+.rectangle-36 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 27px;
+  width: 104px;
+  height: 160px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.mask-group2 {
+  height: auto;
+  position: absolute;
+  left: 91px;
+  top: 190px;
+  overflow: visible;
+}
+.burj-khalifa {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 115px;
+  top: 330px;
+  width: 119px;
+  height: 27px;
+}
+.rectangle-34 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 27px;
+  width: 104px;
+  height: 160px;
+  position: absolute;
+  left: 270px;
+  top: 321px;
+}
+.dubai-uae {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 11px;
+  font-weight: 300;
+  position: absolute;
+  left: 142px;
+  top: 357px;
+  width: 98px;
+  height: 6px;
+}
+.usa-new-york {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 11px;
+  font-weight: 300;
+  position: absolute;
+  left: 299px;
+  top: 354px;
+  width: 98px;
+  height: 6px;
+}
+.south-africa {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 11px;
+  font-weight: 300;
+  position: absolute;
+  left: 486px;
+  top: 354px;
+  width: 98px;
+  height: 6px;
+}
+.rectangle-32 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 27px;
+  width: 104px;
+  height: 160px;
+  position: absolute;
+  left: 441px;
+  top: 321px;
+}
+.statue-of-liberty {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 277px;
+  top: 327px;
+  width: 159px;
+  height: 27px;
+}
+.beverily-hills {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 461px;
+  top: 327px;
+  width: 159px;
+  height: 27px;
+}
+.destination {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 340px;
+  top: 127px;
+  width: 292px;
+  height: 27px;
+}
+._0-d-6-ffdc-2-a-391-42-c-8-af-80-098981251-f-90-removebg-preview-1 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 118px;
+  top: 351px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+._0-d-6-ffdc-2-a-391-42-c-8-af-80-098981251-f-90-removebg-preview-2 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 275px;
+  top: 348px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+._0-d-6-ffdc-2-a-391-42-c-8-af-80-098981251-f-90-removebg-preview-3 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 461px;
+  top: 348px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.mask-group3 {
+  height: auto;
+  position: absolute;
+  left: 262px;
+  top: 190px;
+  overflow: visible;
+}
+.t-ravel5 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 237px;
+  top: 88px;
+  width: 239px;
+  height: 25px;
+}
+.mask-group4 {
+  height: auto;
+  position: absolute;
+  left: 441px;
+  top: 190px;
+  overflow: visible;
+}
+.rectangle-45 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 37px;
+  height: 14px;
+  position: absolute;
+  left: 156px;
+  top: 386px;
+}
+.rectangle-46 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 37px;
+  height: 14px;
+  position: absolute;
+  left: 348px;
+  top: 387px;
+}
+.arrow-11 {
+  width: 146.3px;
+  height: 39.82px;
+  position: absolute;
+  left: calc(50% - 271px);
+  top: 112.66px;
+  transform: translate(9.64px, -20.99px);
+  overflow: visible;
+}
+.arrow-12 {
+  width: 146.3px;
+  height: 39.82px;
+  position: absolute;
+  left: calc(50% - -389.68px);
+  top: 286.74px;
+  transform: translate(-120.18px, -23.91px);
+  overflow: visible;
+}
+.mask-group5 {
+  width: 165px;
+  height: 191px;
+  position: absolute;
+  left: 489px;
+  top: 563px;
+  overflow: visible;
+}
+.frame-3 {
+  background: #ffffff;
+  width: 720px;
+  height: 397px;
+  position: absolute;
+  left: 18px;
+  top: 794px;
+  overflow: hidden;
+}
+.rectangle-29 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 27px;
+  width: 104px;
+  height: 160px;
+  position: absolute;
+  left: 598px;
+  top: -38px;
+}
+.save-when-book-with-booking-com-removebg-preview-2 {
+  width: 57px;
+  height: 43px;
+  position: absolute;
+  left: 549px;
+  top: 354px;
+  object-fit: cover;
+  aspect-ratio: 57/43;
+}
+.featured-app-2 {
+  width: 34px;
+  height: 34px;
+  position: absolute;
+  left: 614px;
+  top: 359px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.alquileres-temporarios-2 {
+  border-radius: 8px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 666px;
+  top: 359px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.rectangle-62 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 41px;
+  height: 57px;
+  position: absolute;
+  left: 565px;
+  top: 55px;
+  transform-origin: 0 0;
+  transform: rotate(-89.64deg) scale(1, 1);
+}
+.arrow-9 {
+  width: 146.3px;
+  height: 39.82px;
+  position: absolute;
+  left: 713.01px;
+  top: 236.68px;
+  transform: translate(-120.01px, -23.86px);
+  overflow: visible;
+}
+.unleash-your-journey {
+  color: rgba(0, 0, 0, 0.48);
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.44em;
+  font-weight: 300;
+  position: absolute;
+  left: 446px;
+  top: 104px;
+  width: 360px;
+  height: 76px;
+}
+.arrow-5 {
+  width: 154.94px;
+  height: 0px;
+  position: absolute;
+  left: 551px;
+  top: 312px;
+  transform: translate(-0.73px, -114px);
+  overflow: visible;
+}
+.frame-94 {
+  width: 894px;
+  height: 513px;
+  position: absolute;
+  left: -52px;
+  top: -57px;
+}
+.mask-group6 {
+  height: auto;
+  position: absolute;
+  left: 197px;
+  top: 73px;
+  overflow: visible;
+}
+.rectangle-28 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 27px;
+  width: 104px;
+  height: 160px;
+  position: absolute;
+  left: 411px;
+  top: 19px;
+}
+.t-ravel6 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 411px;
+  top: 73px;
+  width: 239px;
+  height: 25px;
+}
+.popular-destination {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  position: absolute;
+  left: 412px;
+  top: 115px;
+  width: 482px;
+  height: 92px;
+}
+.rectangle-64 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 41px;
+  height: 57px;
+  position: absolute;
+  left: 86px;
+  top: 112px;
+  transform-origin: 0 0;
+  transform: rotate(-89.64deg) scale(1, 1);
+}
+.rectangle-63 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 29.24px;
+  height: 34.58px;
+  position: absolute;
+  left: 446px;
+  top: 192.24px;
+  transform-origin: 0 0;
+  transform: rotate(-89.64deg) scale(1, 1);
+}
+.arrow-10 {
+  width: 146.3px;
+  height: 39.82px;
+  position: absolute;
+  left: calc(50% - 401px);
+  top: 99.66px;
+  transform: translate(9.64px, -20.99px);
+  overflow: visible;
+}
+.ellipse-2 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 329px;
+  height: 321px;
+  position: absolute;
+  left: 57px;
+  top: 192px;
+}
+.ellipse-3 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 215px;
+  height: 218px;
+  position: absolute;
+  left: 62px;
+  top: 223px;
+}
+.experience-the-best-tropical-luxury-hotels-with-1 {
+  width: 345.87px;
+  height: 461px;
+  position: absolute;
+  left: -3px;
+  top: 57px;
+  object-fit: cover;
+  aspect-ratio: 345.87/461;
+}
+.ellipse-5 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 215px;
+  height: 218px;
+  position: absolute;
+  left: 350px;
+  top: 220px;
+}
+.ellipse-6 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 215px;
+  height: 218px;
+  position: absolute;
+  left: 350px;
+  top: 223px;
+}
+.mask-group7 {
+  position: absolute;
+  inset: 0;
+}
+.travel-to-india-is-very-popular-among-tourists-1 {
+  width: 268px;
+  height: 457.83px;
+  position: absolute;
+  left: 324px;
+  top: 173px;
+  object-fit: cover;
+  aspect-ratio: 268/457.83;
+}
+.travel-to-india-is-very-popular-among-tourists-12 {
+  width: 268px;
+  height: 457.83px;
+  position: absolute;
+  left: 324px;
+  top: 172px;
+  object-fit: cover;
+  aspect-ratio: 268/457.83;
+}
+.vecteezy-isolated-airplane-image-47308109-4 {
+  opacity: 0.86;
+  width: 341.13px;
+  height: 191.22px;
+  position: absolute;
+  right: 87.01px;
+  top: 185px;
+  box-shadow: 2px 15px 7.3px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(2.355deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 341.13/191.22;
+}
+.frame-5 {
+  background: #ffffff;
+  width: 721px;
+  height: 397px;
+  position: absolute;
+  left: 18px;
+  top: 1588px;
+  overflow: hidden;
+}
+.journey-to-skies-made-simple {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: absolute;
+  left: 999px;
+  top: 89px;
+  width: 573px;
+  height: 80px;
+}
+.t-ravel7 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 573px;
+  top: 341px;
+  width: 239px;
+  height: 25px;
+}
+.rectangle-37 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 27px;
+  width: 104px;
+  height: 160px;
+  position: absolute;
+  left: 673px;
+  top: -100px;
+}
+.rectangle-452 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 27px;
+  width: 245px;
+  height: 147px;
+  position: absolute;
+  left: 514px;
+  top: 168px;
+}
+.pay-start-journey {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  position: absolute;
+  left: 536px;
+  top: 253px;
+  width: 101px;
+  height: 61px;
+}
+.ellipse-17 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 595px;
+  top: 272px;
+}
+.polygon-4 {
+  width: 12.07px;
+  height: 11.02px;
+  position: absolute;
+  left: 608.02px;
+  top: 274px;
+  transform: translate(-8.26px, 0.86px);
+  overflow: visible;
+}
+.dollar-sign-symbol-decal-money-decal-cash-money-removebg-preview-1 {
+  width: 188.58px;
+  height: 244px;
+  position: absolute;
+  left: 453px;
+  top: 77px;
+  object-fit: cover;
+  aspect-ratio: 188.58/244;
+}
+.rectangle-49 {
+  background: #ffffff;
+  width: 68px;
+  height: 30px;
+  position: absolute;
+  left: 514px;
+  top: 138px;
+}
+.rectangle-50 {
+  background: #ffffff;
+  width: 27px;
+  height: 25px;
+  position: absolute;
+  left: 500px;
+  top: 161px;
+}
+.rectangle-61 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 27.04px;
+  height: 57px;
+  position: absolute;
+  left: 633px;
+  top: 36.04px;
+  transform-origin: 0 0;
+  transform: rotate(-89.64deg) scale(1, 1);
+}
+.rectangle-59 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 41px;
+  height: 57px;
+  position: absolute;
+  left: 532px;
+  top: 293px;
+}
+.upto-50-off {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 527px;
+  top: 126px;
+  width: 573px;
+  height: 80px;
+}
+.mouse-cursor-removebg-preview-4 {
+  width: 17.59px;
+  height: 18px;
+  position: absolute;
+  left: 601px;
+  top: 284px;
+  object-fit: cover;
+  aspect-ratio: 17.59/18;
+}
+.frame-95 {
+  width: 840px;
+  height: 444px;
+  position: absolute;
+  left: -21px;
+  top: -10px;
+}
+.rectangle-51 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 27px;
+  width: 104px;
+  height: 160px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.journey-to-skies-made-simple2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: absolute;
+  left: 52px;
+  top: 39px;
+  width: 573px;
+  height: 80px;
+}
+.travel-and-explore-a-wonderful-world-and-enjoy-your-experience-of-travelling {
+  color: rgba(0, 0, 0, 0.36);
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.28em;
+  font-weight: 500;
+  position: absolute;
+  left: 80px;
+  top: 89px;
+  width: 459px;
+  height: 39px;
+}
+.rectangle-40 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 27px;
+  width: 245px;
+  height: 259px;
+  position: absolute;
+  left: 276px;
+  top: 160px;
+}
+.rectangle-39 {
+  border-radius: 0px;
+  width: 149px;
+  height: 108px;
+  position: absolute;
+  left: 67px;
+  top: 169px;
+  overflow: visible;
+}
+.rectangle-42 {
+  border-radius: 0px;
+  width: 108px;
+  height: 108px;
+  position: absolute;
+  left: 33px;
+  top: 285px;
+  overflow: visible;
+}
+.rectangle-43 {
+  border-radius: 0px;
+  width: 93px;
+  height: 108px;
+  position: absolute;
+  left: 123px;
+  top: 169px;
+  overflow: visible;
+}
+.book-a-ticket {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 293px;
+  top: 265px;
+  width: 119px;
+  height: 80px;
+}
+._0-d-6-ffdc-2-a-391-42-c-8-af-80-098981251-f-90-removebg-preview-5 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 120px;
+  top: 209px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+._0-d-6-ffdc-2-a-391-42-c-8-af-80-098981251-f-90-removebg-preview-6 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 322px;
+  top: 239px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.start-destination {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.28em;
+  font-weight: 500;
+  position: absolute;
+  left: 56px;
+  top: 239px;
+  width: 459px;
+  height: 39px;
+}
+.mask-group8 {
+  height: auto;
+  position: absolute;
+  left: 28px;
+  top: 284px;
+  overflow: visible;
+}
+.rectangle-44 {
+  background: #d9d9d9;
+  border-radius: 20px;
+  width: 99px;
+  height: 31px;
+  position: absolute;
+  left: 350px;
+  top: 365px;
+}
+.ellipse-16 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 359px;
+  top: 372px;
+}
+.polygon-3 {
+  width: 12.07px;
+  height: 11.02px;
+  position: absolute;
+  left: 373.02px;
+  top: 374px;
+  transform: translate(-8.26px, 0.86px);
+  overflow: visible;
+}
+.travelling-is-a-wonderful-way-to-explore-new-places {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.28em;
+  font-weight: 200;
+  position: absolute;
+  left: 293px;
+  top: 325px;
+  width: 217px;
+  height: 39px;
+}
+.arrow-6 {
+  width: 107.98px;
+  height: 22.71px;
+  position: absolute;
+  left: 31.88px;
+  top: 173px;
+  transform: translate(-0.6px, -0.48px);
+  overflow: visible;
+}
+.learn-more {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+  position: absolute;
+  left: 381px;
+  top: 374px;
+  width: 459px;
+  height: 39px;
+}
+.mouse-cursor-removebg-preview-1 {
+  width: 17.59px;
+  height: 18px;
+  position: absolute;
+  left: 132px;
+  top: 224px;
+  object-fit: cover;
+  aspect-ratio: 17.59/18;
+}
+.mouse-cursor-removebg-preview-2 {
+  width: 17.59px;
+  height: 18px;
+  position: absolute;
+  left: 369px;
+  top: 381px;
+  object-fit: cover;
+  aspect-ratio: 17.59/18;
+}
+.mouse-cursor-removebg-preview-3 {
+  width: 17.59px;
+  height: 18px;
+  position: absolute;
+  left: 369px;
+  top: 381px;
+  object-fit: cover;
+  aspect-ratio: 17.59/18;
+}
+.rectangle-57 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 41px;
+  height: 57px;
+  position: absolute;
+  left: 150px;
+  top: 263px;
+}
+.rectangle-60 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 41px;
+  height: 57px;
+  position: absolute;
+  left: 0px;
+  top: 51px;
+  transform-origin: 0 0;
+  transform: rotate(-89.64deg) scale(1, 1);
+}
+.rectangle-58 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 41px;
+  height: 57px;
+  position: absolute;
+  left: 312px;
+  top: 127px;
+}
+.arrow-112 {
+  width: 146.3px;
+  height: 39.82px;
+  position: absolute;
+  left: calc(50% - 205px);
+  top: 229.66px;
+  transform: translate(9.64px, -20.99px);
+  overflow: visible;
+}
+.rectangle-41 {
+  border-radius: 0px;
+  width: 149px;
+  height: 108px;
+  position: absolute;
+  left: 374px;
+  top: 160px;
+  overflow: visible;
+}
+.ellipse-15 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 128px;
+  top: 233px;
+}
+.arrow-1 {
+  width: 70.24px;
+  height: 0px;
+  position: absolute;
+  left: 62px;
+  top: 281px;
+  overflow: visible;
+}
+.starting-destination {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.28em;
+  font-weight: 500;
+  position: absolute;
+  left: 117px;
+  top: 211px;
+}
+._0-d-6-ffdc-2-a-391-42-c-8-af-80-098981251-f-90-removebg-preview-52 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 126px;
+  top: 224px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.experience-the-best-tropical-luxury-hotels-with-3 {
+  width: 146.3px;
+  height: 195px;
+  position: absolute;
+  left: 375px;
+  top: 89px;
+  object-fit: cover;
+  aspect-ratio: 146.3/195;
+}
+.arrow-2 {
+  width: 77.62px;
+  height: 0px;
+  position: absolute;
+  left: 29px;
+  top: 247px;
+  overflow: visible;
+}
+.arrow-3 {
+  width: 226.46px;
+  height: 0px;
+  position: absolute;
+  left: 38px;
+  top: 209px;
+  overflow: visible;
+}
+.arrow-4 {
+  width: 145.34px;
+  height: 0px;
+  position: absolute;
+  left: 73px;
+  top: 366px;
+  overflow: visible;
+}
+.polygon-2 {
+  width: 10px;
+  height: 14px;
+  position: absolute;
+  left: 359px;
+  top: 376px;
+  overflow: visible;
+}
+.rectangle-68 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 25.5px;
+  width: 16.95px;
+  height: 51px;
+  position: absolute;
+  left: 735.33px;
+  top: 2327.2px;
+  transform-origin: 0 0;
+  transform: rotate(91.35deg) scale(1, 1);
+}
+.rectangle-67 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 25.5px;
+  width: 16.95px;
+  height: 51px;
+  position: absolute;
+  left: 735.33px;
+  top: 2360.2px;
+  transform-origin: 0 0;
+  transform: rotate(91.35deg) scale(1, 1);
+}
+.rectangle-55 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 20px;
+  width: 124px;
+  height: 114px;
+  position: absolute;
+  left: 522.94px;
+  top: 2248px;
+}
+.arrow-13 {
+  width: 90.8px;
+  height: 23.65px;
+  position: absolute;
+  left: 642.96px;
+  top: 2287.06px;
+  overflow: visible;
+}
+.rectangle-622 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 41px;
+  height: 57px;
+  position: absolute;
+  left: 539.28px;
+  top: 2294.46px;
+  transform-origin: 0 0;
+  transform: rotate(90.465deg) scale(1, 1);
+}
+.travel-with-us {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.28em;
+  font-weight: 200;
+  position: absolute;
+  left: 623.94px;
+  top: 2276px;
+  width: 161px;
+  height: 35px;
+}
+.frame-6 {
+  background: #ffffff;
+  width: 721px;
+  height: 397px;
+  position: absolute;
+  left: 18px;
+  top: 2377px;
+  overflow: hidden;
+}
+.ellipse-22 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 47px;
+  height: 45px;
+  position: absolute;
+  left: 186px;
+  top: 361px;
+}
+.give-us-feedback {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 504px;
+  top: 117px;
+}
+.give-us-feedback-span {
+  font-family: "Inter-Bold", sans-serif;
+  font-weight: 700;
+}
+.give-us-feedback-span2 {
+  font-family: "Inter-Black", sans-serif;
+  font-weight: 900;
+}
+.give-us-feedback-span3 {
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-weight: 800;
+}
+.give-us-feedback-span {
+  font-family: "Inter-Bold", sans-serif;
+  font-weight: 700;
+}
+.give-us-feedback-span2 {
+  font-family: "Inter-Black", sans-serif;
+  font-weight: 900;
+}
+.give-us-feedback-span3 {
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-weight: 800;
+}
+.rectangle-75 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 124px;
+  height: 32px;
+  position: absolute;
+  left: 518px;
+  top: 177px;
+}
+.arrow-17 {
+  width: 90.8px;
+  height: 23.65px;
+  position: absolute;
+  left: 716.81px;
+  top: 143.01px;
+  transform: translate(-94.81px, -23.53px);
+  overflow: visible;
+}
+.mouse-cursor-removebg-preview-5 {
+  width: 17.59px;
+  height: 18px;
+  position: absolute;
+  left: 595px;
+  top: 205px;
+  object-fit: cover;
+  aspect-ratio: 17.59/18;
+}
+.rectangle-70 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 25.5px;
+  width: 16.95px;
+  height: 51px;
+  position: absolute;
+  left: 704.39px;
+  top: 320.2px;
+  transform-origin: 0 0;
+  transform: rotate(91.35deg) scale(1, 1);
+}
+.rectangle-77 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 25.5px;
+  width: 16.95px;
+  height: 51px;
+  position: absolute;
+  left: 704.39px;
+  top: 285.2px;
+  transform-origin: 0 0;
+  transform: rotate(91.35deg) scale(1, 1);
+}
+.rectangle-78 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 25.5px;
+  width: 16.95px;
+  height: 51px;
+  position: absolute;
+  left: 704.39px;
+  top: 247.2px;
+  transform-origin: 0 0;
+  transform: rotate(91.35deg) scale(1, 1);
+}
+.rectangle-79 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 25.5px;
+  width: 16.95px;
+  height: 51px;
+  position: absolute;
+  left: 704.39px;
+  top: 358.2px;
+  transform-origin: 0 0;
+  transform: rotate(91.35deg) scale(1, 1);
+}
+.rectangle-83 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 25.5px;
+  width: 16.95px;
+  height: 51px;
+  position: absolute;
+  left: 50.39px;
+  top: 376.2px;
+  transform-origin: 0 0;
+  transform: rotate(91.35deg) scale(1, 1);
+}
+.rectangle-76 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 20px;
+  width: 64px;
+  height: 25px;
+  position: absolute;
+  left: 532px;
+  top: 180px;
+}
+.write-here {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 540px;
+  top: 183px;
+}
+.frame-96 {
+  width: 1163px;
+  height: 514px;
+  position: absolute;
+  left: -134px;
+  top: -83px;
+}
+.rectangle-702 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 20px;
+  width: 411px;
+  height: 149px;
+  position: absolute;
+  left: 230px;
+  top: 315px;
+}
+.rectangle-71 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 20px;
+  width: 411px;
+  height: 149px;
+  position: absolute;
+  left: 0px;
+  top: 128px;
+}
+.rectangle-73 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 20px;
+  width: 411px;
+  height: 149px;
+  position: absolute;
+  left: 552px;
+  top: 150px;
+}
+.what-people-say-about-us {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 162px;
+  top: 163px;
+  width: 221px;
+  height: 80px;
+}
+.what-people-say-about-us-span {
+  font-family: "Inter-Regular", sans-serif;
+}
+.what-people-say-about-us-span2 {
+  font-family: "Inter-Bold", sans-serif;
+  font-weight: 700;
+}
+.what-people-say-about-us-span3 {
+  font-family: "Inter-Black", sans-serif;
+  font-weight: 900;
+}
+.software-designer {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  position: absolute;
+  left: 465px;
+  top: 437px;
+  width: 282px;
+  height: 77px;
+}
+.star-1 {
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  left: 197px;
+  top: 141px;
+  overflow: visible;
+}
+.star-6 {
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  left: 275px;
+  top: 410px;
+  overflow: visible;
+}
+.star-7 {
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  left: 295px;
+  top: 410px;
+  overflow: visible;
+}
+.star-8 {
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  left: 313px;
+  top: 410px;
+  overflow: visible;
+}
+.star-9 {
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  left: 330px;
+  top: 410px;
+  overflow: visible;
+}
+.star-10 {
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  left: 345px;
+  top: 410px;
+  overflow: visible;
+}
+.star-2 {
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  left: 221px;
+  top: 141px;
+  overflow: visible;
+}
+.af-3-cfc-2-b-c-6-b-9-4978-b-701-83-c-043-a-7817-d-removebg-preview-1 {
+  width: 338.46px;
+  height: 346px;
+  position: absolute;
+  left: 285px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 338.46/346;
+}
+.arrow-15 {
+  width: 90.8px;
+  height: 23.65px;
+  position: absolute;
+  left: 429.81px;
+  top: 256.01px;
+  transform: translate(-94.81px, -23.53px);
+  overflow: visible;
+}
+.arrow-16 {
+  width: 90.8px;
+  height: 23.65px;
+  position: absolute;
+  left: 134.03px;
+  top: 93.18px;
+  transform: translate(-0.03px, 7.38px);
+  overflow: visible;
+}
+.star-3 {
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  left: 245px;
+  top: 141px;
+  overflow: visible;
+}
+.ellipse-19 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 47px;
+  height: 45px;
+  position: absolute;
+  left: 159px;
+  top: 259px;
+}
+.ellipse-20 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 47px;
+  height: 45px;
+  position: absolute;
+  left: 298px;
+  top: 96px;
+}
+.ellipse-21 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 59px;
+  height: 55px;
+  position: absolute;
+  left: 528px;
+  top: 278px;
+}
+.rectangle-74 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 248px;
+  height: 28px;
+  position: absolute;
+  left: 421px;
+  top: 197px;
+}
+.travelling-is-a-wonderful-way-to-explore-new-places-it-was-a-wonderful-xperience {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.28em;
+  font-weight: 200;
+  position: absolute;
+  left: 317px;
+  top: 351px;
+  width: 310px;
+  height: 39px;
+}
+.krazytenderson {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 463px;
+  top: 419px;
+  width: 700px;
+  height: 80px;
+}
+.star-4 {
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  left: 267px;
+  top: 141px;
+  overflow: visible;
+}
+.star-5 {
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  left: 289px;
+  top: 141px;
+  overflow: visible;
+}
+.arrow-18 {
+  width: 90.8px;
+  height: 23.65px;
+  position: absolute;
+  left: 568px;
+  top: 250.54px;
+  transform: translate(1.45px, -5.11px);
+  overflow: visible;
+}
+.rectangle-80 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 25.5px;
+  width: 16.95px;
+  height: 51px;
+  position: absolute;
+  left: 184.39px;
+  top: 421.2px;
+  transform-origin: 0 0;
+  transform: rotate(91.35deg) scale(1, 1);
+}
+.rectangle-81 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 25.5px;
+  width: 16.95px;
+  height: 51px;
+  position: absolute;
+  left: 184.39px;
+  top: 386.2px;
+  transform-origin: 0 0;
+  transform: rotate(91.35deg) scale(1, 1);
+}
+.rectangle-82 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 25.5px;
+  width: 16.95px;
+  height: 51px;
+  position: absolute;
+  left: 184.39px;
+  top: 348.2px;
+  transform-origin: 0 0;
+  transform: rotate(91.35deg) scale(1, 1);
+}
+.rectangle-84 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 25.5px;
+  width: 16.95px;
+  height: 51px;
+  position: absolute;
+  left: 265.39px;
+  top: 94.2px;
+  transform-origin: 0 0;
+  transform: rotate(91.35deg) scale(1, 1);
+}
+.rectangle-85 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 25.5px;
+  width: 16.95px;
+  height: 51px;
+  position: absolute;
+  left: 265.39px;
+  top: 56.2px;
+  transform-origin: 0 0;
+  transform: rotate(91.35deg) scale(1, 1);
+}
+.ellipse-18 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 67px;
+  height: 67px;
+  position: absolute;
+  left: 245px;
+  top: 328px;
+}
+.madaniaart-freepik-1 {
+  width: 89px;
+  height: 89px;
+  position: absolute;
+  left: 238px;
+  top: 316px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.group-82 {
+  width: 882.94px;
+  height: 457px;
+  position: static;
+}
+.frame-97 {
+  width: 882.94px;
+  height: 457px;
+  position: absolute;
+  left: 0px;
+  top: 1951px;
+}
+.rectangle-52 {
+  background: #ffffff;
+  width: 721px;
+  height: 397px;
+  position: absolute;
+  left: 17.95px;
+  top: 35px;
+}
+.t-ravel8 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 86.95px;
+  top: 53px;
+  width: 239px;
+  height: 25px;
+}
+.rectangle-54 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 20px;
+  width: 124px;
+  height: 114px;
+  position: absolute;
+  left: 223.94px;
+  top: 160px;
+}
+.vecteezy-isolated-airplane-image-47308109-3 {
+  width: 455.93px;
+  height: 255.57px;
+  position: absolute;
+  right: 258.57px;
+  top: 0px;
+  box-shadow: 2px 15px 7.3px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(2.355deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 455.93/255.57;
+}
+.arrow-122 {
+  width: 146.3px;
+  height: 39.82px;
+  position: absolute;
+  left: calc(50% - 320.53px);
+  top: 200.66px;
+  transform: translate(9.64px, -20.99px);
+  overflow: visible;
+}
+.rectangle-56 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 25.5px;
+  width: 16.95px;
+  height: 51px;
+  position: absolute;
+  left: 72.33px;
+  top: 75.2px;
+  transform-origin: 0 0;
+  transform: rotate(91.35deg) scale(1, 1);
+}
+.rectangle-642 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 25.5px;
+  width: 16.95px;
+  height: 51px;
+  position: absolute;
+  left: 72.33px;
+  top: 103.2px;
+  transform-origin: 0 0;
+  transform: rotate(91.35deg) scale(1, 1);
+}
+.rectangle-65 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 25.5px;
+  width: 16.95px;
+  height: 51px;
+  position: absolute;
+  left: 72.33px;
+  top: 129.2px;
+  transform-origin: 0 0;
+  transform: rotate(91.35deg) scale(1, 1);
+}
+.rectangle-66 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 25.5px;
+  width: 16.95px;
+  height: 51px;
+  position: absolute;
+  left: 72.33px;
+  top: 155.2px;
+  transform-origin: 0 0;
+  transform: rotate(91.35deg) scale(1, 1);
+}
+.mouse-cursor-removebg-preview-52 {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 285.94px;
+  top: 208px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.mask-group9 {
+  height: auto;
+  position: absolute;
+  left: 5.93px;
+  top: 211px;
+  transform: translate(-5.93px, 0px);
+  overflow: visible;
+}
+.unleash {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 223.94px;
+  top: 217px;
+  width: 573px;
+  height: 80px;
+}
+.rectangle-632 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 41px;
+  height: 57px;
+  position: absolute;
+  left: 246.28px;
+  top: 172.46px;
+  transform-origin: 0 0;
+  transform: rotate(90.465deg) scale(1, 1);
+}
+.wanderlust {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 64px;
+  font-weight: 500;
+  position: absolute;
+  left: 223.94px;
+  top: 249px;
+  width: 573px;
+  height: 80px;
+}
+.with-skywings {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.81em;
+  font-weight: 500;
+  position: absolute;
+  left: 235.94px;
+  top: 318px;
+  width: 573px;
+  height: 80px;
+}
+.travelling-is-a-wonderful-way-to-explore-new-places2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.28em;
+  font-weight: 200;
+  position: absolute;
+  left: 413.94px;
+  top: 229px;
+  width: 217px;
+  height: 39px;
+}
+.rectangle-69 {
+  background: rgba(207, 204, 21, 0.74);
+  border-radius: 20px;
+  width: 178px;
+  height: 42px;
+  position: absolute;
+  left: 280.94px;
+  top: 363px;
+}
+.book-a-flight-now {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  position: absolute;
+  left: 309.94px;
+  top: 377px;
+  width: 573px;
+  height: 80px;
+}
+.arrow-14 {
+  width: 23px;
+  height: 0px;
+  position: absolute;
+  left: 405.94px;
+  top: 384px;
+  transform: translate(0px, -7.36px);
+  overflow: visible;
+}
