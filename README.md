@@ -1,4 +1,3 @@
-# travel-website
 # ✈️ Wanderly — Travel Beyond Limits
 
 > *“Jobs fill your pockets, but adventures fill your soul.”*  
@@ -12,6 +11,14 @@
 
 Wanderly is a modern, responsive travel platform designed to help dreamers become travelers.  
 From destination discovery to itinerary planning, we’ve built a seamless experience for explorers of every kind.
+
+---
+
+## 🖌️ UI/UX Design (Figma)
+
+Curious how it all looks under the hood?  
+🎨 Check out our full design prototype on Figma:  
+👉 [View Figma Design](https://www.figma.com/design/07HjG5hnRUZNRPI4ND5ied/Untitled?node-id=55-2&t=xm6YImSksQe7bWSq-1)
 
 ---
 
@@ -51,3 +58,4 @@ npm install
 
 # 3. Start the dev server
 npm run dev
+
